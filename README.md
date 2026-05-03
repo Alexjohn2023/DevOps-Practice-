@@ -1,21 +1,26 @@
-# DevOps-Practice-
-This is for practice purpose
+### 1️⃣6️⃣ Clean Repository State on Azure VM
 
-## Install Terraform
-- Step 1:
-Go to the official Terraform download page
-👉 https://developer.hashicorp.com/terraform/downloads
-Download the Windows AMD64 ZIP file
-Extract the ZIP file
-You’ll get terraform.exe
-Move terraform.exe to a folder (e.g., C:\terraform)
-Add that folder to your System PATH
-Search: Environment Variables
-Edit → Path → Add C:\terraform
+![Clean Git Status](./images/clean-git-status.png)
 
-Verify installation
-Open Command Prompt and run:
+> ✔️ Repository successfully cloned  
+> ✔️ Working tree clean  
+> ✔️ Branch synced with origin  
 
-terraform -version
+---
 
+### 1️⃣7️⃣ Successful Push from Azure VM to GitHub
 
+![Git Push Success](./images/git-push-success.png)
+
+> ✔️ Changes committed from Azure VM  
+> ✔️ Code successfully pushed to GitHub  
+> ✔️ Remote and local repositories fully synchronized  
+
+---
+
+### 1️⃣8️⃣ Branch Verification
+
+![Git Branch](./images/git-branch.png)
+
+> ✔️ Confirmed working on `main` branch  
+> ✔️ Remote tracking functioning correctly  
