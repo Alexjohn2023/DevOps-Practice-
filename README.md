@@ -66,15 +66,17 @@ Each system is an **independent actor** with its own identity.
 
 ### Clean Repository State on Azure VM
 
-<img src="git-ssh-picture-1.png" width="700"/>
+<p align="center">
+  <img src="git-ssh-picture-1.png" width="400"/>
+</p>
 
-### Clone from GitHub to Azure VM
+<p align="center">
+  <img src="git-clone.jpg" width="400"/>
+</p>
 
-<img src="git-clone.jpg" width="700"/>
-
-### Successful Push from Azure VM → GitHub
-
-<img src="git-push.jpg" width="700"/>
+<p align="center">
+  <img src="git-push.jpg" width="400"/>
+</p>
 
 > ✔️ Code executed remotely
 > ✔️ Changes committed from VM
