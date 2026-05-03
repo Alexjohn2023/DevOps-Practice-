@@ -1,6 +1,12 @@
-# Secure Cloud-Based Git Workflow (GitHub + SSH + Azure VM)
+# 🔐 SSH-Based GitOps
 
-## Overview
+### Secure Cloud-Based Workflow (GitHub + SSH + Azure VM)
+
+A secure, multi-environment GitOps workflow using SSH authentication across local and cloud systems.
+
+---
+
+## 📖 Overview
 
 This project demonstrates a **production-relevant DevOps workflow** where code is:
 
