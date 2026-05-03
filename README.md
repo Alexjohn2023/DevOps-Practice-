@@ -65,16 +65,13 @@ Each system is an **independent actor** with its own identity.
 ##  Proof of Execution (End-to-End Validation)
 
 ### Clean Repository State on Azure VM
+![Git SSH Setup](git-ssh-picture-1.png)
 
-![Clean Git Status](./images/clean-git-status.png)
+### Clone from GitHub to Azure VM
+![Git Clone](git-clone.jpg)
 
-###  Successful Push from Azure VM → GitHub
-
-![Git Push Success](./images/git-push-success.png)
-
-### Branch Verification
-
-![Git Branch](./images/git-branch.png)
+### Successful Push from Azure VM → GitHub
+![Git Push](git-push.jpg)
 
 > ✔️ Code executed remotely
 > ✔️ Changes committed from VM
