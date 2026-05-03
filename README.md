@@ -62,16 +62,19 @@ Each system is an **independent actor** with its own identity.
 * No secrets stored in repo
 * All sensitive data redacted in documentation
 
-##  Proof of Execution (End-to-End Validation)
+## 📸 Proof of Execution (End-to-End Validation)
 
 ### Clean Repository State on Azure VM
-![Git SSH Setup](git-ssh-picture-1.png)
+
+<img src="git-ssh-picture-1.png" width="700"/>
 
 ### Clone from GitHub to Azure VM
-![Git Clone](git-clone.jpg)
+
+<img src="git-clone.jpg" width="700"/>
 
 ### Successful Push from Azure VM → GitHub
-![Git Push](git-push.jpg)
+
+<img src="git-push.jpg" width="700"/>
 
 > ✔️ Code executed remotely
 > ✔️ Changes committed from VM
