@@ -1,4 +1,4 @@
-# DevOps-Practice — Secure Cloud-Based Git Workflow (GitHub + SSH + Azure VM)
+# Secure Cloud-Based Git Workflow (GitHub + SSH + Azure VM)
 
 ## Overview
 
